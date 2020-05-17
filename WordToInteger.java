@@ -1,5 +1,11 @@
 package JavaPrograms;
 
+
+/* 
+    Program that takes word-form numbers as command-line arguments and converts
+    them into the numberic form and prints them to the console.
+
+*/
 class wordToNum {
     public static void main(String[] arguments) {
         for (int i=0; i < arguments.length; i++){
